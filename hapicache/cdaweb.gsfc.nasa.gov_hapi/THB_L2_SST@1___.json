@@ -543,7 +543,7 @@
         }
     ],
     "startDate": "2007-03-09T00:00:00Z",
-    "stopDate": "2022-05-16T00:00:00Z",
+    "stopDate": "2022-05-23T00:00:00Z",
     "resourceURL": "https://cdaweb.gsfc.nasa.gov/misc/NotesT.html#THB_L2_SST",
     "contact": "V. Angelopoulos, D. Larson & R.P. Lin @ UCB, NASA NAS5-02099",
     "x_server": "https://cdaweb.gsfc.nasa.gov/hapi",
