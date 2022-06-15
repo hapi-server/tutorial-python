@@ -1,12 +1,12 @@
-# pyhc-tutorial
+# tutorial-python
 
 Jupyter Notebook tutorials for [HAPI](https://hapi-server.org/) part of the [2022 PyHC Summer School](https://heliopython.org/summer-school
 )
 
 ```bash
-git clone https://github.com/hapi-server/hapi-pyhc-tutorial/
+git clone https://github.com/hapi-server/tutorial-python
 pip install hapiclient hapiplot
-cd hapi-pyhc-tutorial
+cd tutorial-python
 jupyter-notebook
 ```
 
