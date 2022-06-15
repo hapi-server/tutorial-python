@@ -1,6 +1,0 @@
-Table created on 2022-05-23T11:40:44.778036
-
-ace              Intpl_Med	 2003-304T23:00:00Z
-akebono          D_Psphere	 2003-304T23:00:00Z
-apex             D_Msphere	 2003-304T23:00:00Z
-aqua             N_Psphere	 2003-304T23:00:00Z
